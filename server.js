@@ -108,4 +108,4 @@ app.get('/retreive/images/single', (req, res) => {
 
 // pusher config
 //  listener
-app.listen(port, () => console.log(`listening hack on localhost:${port}`))
+app.listen(port, () => console.log(`listening on localhost:${port}`))
